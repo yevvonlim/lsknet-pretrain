@@ -15,7 +15,7 @@ def parse_args():
 
 if __name__ == "__main__":
     args = parse_args()
-    out = torch.load(args.path)
+    out = torch.load(args.path, map_location='cpu')
     result = {}
     result['state_dict'] = out['state_dict']
     torch.save(result, "lsknet_s_custom.pth")
