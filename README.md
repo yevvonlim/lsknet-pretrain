@@ -1,5 +1,5 @@
-# KARI-AIFACTORY MYGA Team Submission - LSKNet Pretrain
-This is a PyTorch implementation of **LSKNet** ImageNet1K-Pretrain 
+# Unofficial Implementation of LSKNet ImageNet Pretraining
+This is a PyTorch implementation of **LSKNet (https://github.com/zcablii/LSKNet) ** ImageNet1K-Pretrain 
 
 
 ## Image Classification
