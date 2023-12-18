@@ -1,5 +1,5 @@
 # Unofficial Implementation of LSKNet ImageNet Pretraining
-This is a PyTorch implementation of **LSKNet (https://github.com/zcablii/LSKNet) ** ImageNet1K-Pretrain 
+This is a PyTorch implementation of **LSKNet** (https://github.com/zcablii/LSKNet) ImageNet1K-Pretrain 
 
 
 ## Image Classification
